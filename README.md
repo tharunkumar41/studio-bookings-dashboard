@@ -17,7 +17,22 @@ A Calendly scheduling widget is embedded as a stretch goal to demonstrate integr
 ---
 
 ## Application Preview
+Add New Booking
 <img width="1901" height="601" alt="image" src="https://github.com/user-attachments/assets/dbd6e66b-6e21-40eb-9a67-67ccab6f3ed9" />
+
+Current Bookings
+<img width="1896" height="696" alt="Screenshot 2026-06-24 101549" src="https://github.com/user-attachments/assets/4de941d4-3ada-4076-b491-ba0d41cc4848" />
+
+Filter Bookings
+<img width="1897" height="608" alt="Screenshot 2026-06-24 101643" src="https://github.com/user-attachments/assets/864bee0b-f9af-4e31-a78e-2e8a9fd427b5" />
+
+<img width="1896" height="838" alt="Screenshot 2026-06-24 101657" src="https://github.com/user-attachments/assets/620f0736-1adb-47a7-b344-e78b781f55bf" />
+
+Empty Bookings
+<img width="1898" height="821" alt="Screenshot 2026-06-24 101850" src="https://github.com/user-attachments/assets/eb90ba7d-081d-4140-9ae4-70abcbfb1b89" />
+
+### Calendly Integration (Bonus)
+<img width="1685" height="661" alt="Screenshot 2026-06-24 102413" src="https://github.com/user-attachments/assets/32501a25-4317-4184-9dd8-083a4e068670" />
 
 
 ## Tech Stack
