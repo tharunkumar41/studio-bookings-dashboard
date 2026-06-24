@@ -119,7 +119,7 @@ Open the URL in your browser to view the application.
 
 The application includes an empty state component that is displayed whenever a filter returns zero matching bookings.
 
-With the provided sample dataset, all statuses have at least one booking. To test the empty state, temporarily remove bookings for a status from `src/data/bookings.js` and select that status in the filter.
+The current sample dataset contains at least one booking for each status. The empty state can be observed by modifying the sample data so that a selected status has no matching bookings.
 
 
 ---
@@ -127,6 +127,7 @@ With the provided sample dataset, all statuses have at least one booking. To tes
 ## Design Decisions
 
 * Components are separated by responsibility to improve readability and maintainability.
+* Each component has a single responsibility, making the code easier to understand, maintain, and extend.
 * React state (`useState`) is used for managing bookings and filters.
 * Initial booking data is stored in a local JavaScript file to simulate a data source.
 
