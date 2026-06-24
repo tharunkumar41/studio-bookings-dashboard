@@ -16,6 +16,10 @@ A Calendly scheduling widget is embedded as a stretch goal to demonstrate integr
 
 ---
 
+## Application Preview
+<img width="1901" height="601" alt="image" src="https://github.com/user-attachments/assets/dbd6e66b-6e21-40eb-9a67-67ccab6f3ed9" />
+
+
 ## Tech Stack
 
 * React
