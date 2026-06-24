@@ -59,7 +59,7 @@ git clone https://github.com/tharunkumar41/studio-bookings-dashboard.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd studio-bookings
+cd studio-bookings-dashboard
 ```
 
 ### 3. Install Dependencies
